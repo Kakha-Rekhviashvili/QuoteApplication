@@ -1,1 +1,1 @@
-The project is Written in c#. It is app to save quotes. Inside it is implemented CRUD operations and some kind of searching filtering functionalities.  To build The project there are used following technlogies: c#, asp.net core, sql server, entity-framework, html/css. 
+The project is Written in c#. It is app to save quotes. Inside it is implemented CRUD operations and some kind of searching, filtering functionalities.  To build The project there are used following technlogies: c#, asp.net core, sql server, entity-framework, html/css. 
